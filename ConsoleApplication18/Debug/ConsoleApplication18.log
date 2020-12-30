@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication18.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  pch.cpp
+  DiskScheduling13243.cpp
+e:\office\csc\os ii\project\disk-scheduling-master\disck-scheduling c++ (full project)\consoleapplication18\diskscheduling13243.cpp(100): warning C4102: 'dafault': unreferenced label
+  ConsoleApplication18.vcxproj -> E:\Office\CSC\OS II\project\Disk-Scheduling-master\Disck-Scheduling C++ (FULL PROJECT)\Debug\DiskScheduling13243.exe
